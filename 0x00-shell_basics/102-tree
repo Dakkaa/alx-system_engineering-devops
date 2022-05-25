@@ -1,3 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 mv
 ls --format=commas -a -p --indicator-style=slash
+=======
+mkdir -p welcome/to/school
+>>>>>>> a82de7c81e25b293e8d9c66c15914e65ba2070fc
